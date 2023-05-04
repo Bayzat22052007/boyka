@@ -64,27 +64,40 @@ margin-left: 25px;
 }
 
 .contact4{
-
-
+    position: relative;
+    justify-content:flex-end ;
     display: flex;
  column-gap: 30px;
+bottom: 40px;}
+.swiper-slide{
+    text-align: left !important;
 }
-.block3{
- background-size: cover;
- background-position: center;
-height: 600px;
-background-image: url(./img/slider-h3-bg-2.webp);
 
- 
-}
 .block4{
     background-size: cover;
     background-position: center;
-   height: 600px;
+   height: 700px;
    background-image: url(./img/slider-h3-bg-1.webp);
-   
-    
+   color: white;
+   padding-top: 170px;
+   padding-left:340px;
    }
+   .block4 h1{
+    margin: 20px 0;
+   }
+.block3{
+ background-size: cover;
+ background-position: center;
+height: 700px;
+background-image: url(./img/slider-h3-bg-2.webp);
+padding-top: 190px;
+padding-left:275px;
+
+}
+
+.block3 h1{
+ margin: 10px 0;
+}
 
 .header-nav{
     width: 100%;

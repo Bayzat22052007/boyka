@@ -19,9 +19,19 @@ function Compon() {
   return (
     <>
       <Swiper navigation={true} loop modules={[Navigation]} className="mySwiper">
-        <SwiperSlide><div className="block3"></div></SwiperSlide>
-        <SwiperSlide><div className="block4"></div></SwiperSlide>
-        <SwiperSlide><div className="block4"></div></SwiperSlide>
+        <SwiperSlide>
+          <div className="block4">
+          <h1>Classic Leather Accessories </h1>
+         <h1> Amazing For Men's</h1>
+         <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum <br/> dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p>
+          </div>
+          </SwiperSlide>
+        <SwiperSlide><div className="block3">
+        <h1>Spring Men's T-Shirt </h1>
+        <h1>Amazing Men's</h1>
+        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum <br/> dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p>
+          </div>
+          </SwiperSlide>
       </Swiper>
     </>
   );

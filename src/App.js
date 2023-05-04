@@ -39,10 +39,10 @@ return (
     <a href="" className='b'> Blog </a>
     <a href="" className='b'> About </a>
     <a href="" className='b'> Contact us </a>
+    </div>
     <div className='contact4'>
     <a href="" className='c'> Search </a>
     <a href="" className='c'> Cart(2) </a>
-    </div>
     </div>
     </div>
     <div className='header-nav'>
