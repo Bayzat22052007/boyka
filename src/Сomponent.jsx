@@ -18,7 +18,7 @@ import { Navigation } from "swiper";
 function Compon() {
   return (
     <>
-      <Swiper navigation={true} loop modules={[Navigation]} className="mySwiper">
+      <Swiper navigation={true} loop modules={[Navigation]} className="mySwiper1">
         <SwiperSlide>
           <div className="block4">
           <h1>Classic Leather Accessories </h1>

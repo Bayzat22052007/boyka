@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 import './index.scss';
 import './style.css'
-
 import Compon from './Сomponent';
+
+import Salam from'./Salam';
+import './salam.css';
 
 function App() {
 return (
@@ -55,8 +57,40 @@ return (
 <div class='main3'></div>
     </div>
     <div class='main-section'>
-    <div class='main-section1'><h2>New Arrivals<br/>Most Trendy 2023 Clother</h2></div>
+    <div class='main-section1'><h1>New Arrivals</h1>
+    </div>
+    </div>
+    <div class='main-section2'>
+      <h4>Most Trendy 2023 Clother </h4>
+    </div>
   
+   
+    <div class='section'>
+
+      <div class='section1'>
+        
+        <div class='nav'>
+        </div>
+        </div>
+    </div>
+
+    <section>
+      <div class="parent">
+        <div class="div1"> <div className='img'><div className='wer'></div> </div>
+        </div>
+        <div class="div2"><Salam/> </div>
+        <div class="div3"><div className='img'><div className='wer'></div> </div>
+        </div> 
+        <div class="div4"> <Salam/> </div>
+        
+      </div>
+    </section>
+ 
+      <div class='contact2'>
+        <h1>Client Testimonials</h1>
+    </div>
+    <div class='contact3'>
+        <h4>What they say   </h4>
     </div>
     </div>
     
