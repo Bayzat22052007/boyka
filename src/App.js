@@ -49,6 +49,15 @@ return (
    
       <Compon/>
     </div>
+    <div class='main'>
+<div class='main1'></div>
+<div class='main2'></div>
+<div class='main3'></div>
+    </div>
+    <div class='main-section'>
+    <div class='main-section1'><h2>New Arrivals<br/>Most Trendy 2023 Clother</h2></div>
+  
+    </div>
     </div>
     
     

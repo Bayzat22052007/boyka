@@ -80,7 +80,7 @@ bottom: 40px;}
    background-image: url(./img/slider-h3-bg-1.webp);
    color: white;
    padding-top: 170px;
-   padding-left:340px;
+   padding-left:320px;
    }
    .block4 h1{
     margin: 20px 0;
@@ -125,4 +125,33 @@ padding-left:275px;
     height: 100%;
     object-fit: cover;
   }
-  
+  .main{
+    display: flex;
+    column-gap: 25px;
+    justify-content: center;
+  }
+  .main1{
+    width: 320px;
+    height:  209px;
+    background-color: rgb(53, 93, 128);
+    background-image: url(./img/1.webp);
+    background-position: center;
+  }
+  .main2{
+    width: 320px;
+    height:  209px;
+    background-color: rgb(53, 93, 128);
+    background-image: url(./img/2.webp);
+    background-position: center;
+  }
+  .main3{
+    width: 320px;
+    height:  209px;
+    background-color: rgb(53, 93, 128);
+    background-image: url(./img/3.webp);
+    background-position: center;
+  }
+  .main-section h2{
+text-align: center;
+
+  }
