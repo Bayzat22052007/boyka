@@ -64,20 +64,24 @@ a {
   margin-top: 11px;
 
 }
-
-.contact3 {
-
+.contact3{
+  padding-top: 10px;
   display: flex;
-  column-gap: 50px;
-  padding: 25px;
-  margin-left: 25px;
+  justify-content:flex-start;
+  padding-left: 50px;
+  align-items: center;
+  column-gap: 40px;
+  padding-top: 30px;
 }
 
+
+
 .contact4 {
+  padding-top: 20px;
   position: relative;
   justify-content: flex-end;
   display: flex;
-  column-gap: 30px;
+  column-gap: 40px;
   bottom: 40px;
 }
 
@@ -93,6 +97,7 @@ a {
   color: white;
   padding-top: 170px;
   padding-left: 320px;
+  width: 100%;
 }
 
 .block4 h1 {
@@ -106,7 +111,7 @@ a {
   background-image: url(./img/slider-h3-bg-2.webp);
   padding-top: 190px;
   padding-left: 275px;
-
+  width: 100%;
 }
 
 .block3 h1 {
@@ -212,12 +217,18 @@ a {
 .wer:hover{
  opacity: 1;
 }
+.boby1{
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  font-size: 20px;
+}
 .contact2{
   display: flex;
   justify-content: center;
-  padding-top: 100px;
+  padding-top: 50px;
 }
-.contact3{
+.boy{
   padding-top: 10px;
   display: flex;
   justify-content: center;

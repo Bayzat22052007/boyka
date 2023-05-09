@@ -6,6 +6,9 @@ import Compon from './Сomponent';
 import Salam from'./Salam';
 import './salam.css';
 
+import Adam from './Adam';
+import './adam.css'
+
 function App() {
 return (
  
@@ -89,8 +92,11 @@ return (
       <div class='contact2'>
         <h1>Client Testimonials</h1>
     </div>
-    <div class='contact3'>
+    <div class='boby1'>
         <h4>What they say   </h4>
+    </div>
+    <div class='sas'>
+      <div class='sas2'><h4 className='boy'>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.<br/> Mirum est notare quam littera gothica, quam nunc putamus parum claram. </h4>   <Adam/>     </div>
     </div>
     </div>
     

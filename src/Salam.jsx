@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import img3 from './img/шарф.webp'
 import img4 from './img/туфли2.webp'
 import img5 from './img/8.webp'
-import img6 from './img/photo_2023-05-06_16-43-31.jpg'
+import img6     from './img/photo_2023-05-06_16-43-31.jpg'
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/navigation";
